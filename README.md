@@ -2,8 +2,9 @@
 
 ## 프로젝트 목적
  - 클론코딩  캠핑사이트
- -  원본사이트 :  너의 아지트가 되어줄게- https://youagit.com/
+ - 원본사이트 :  너의 아지트가 되어줄게- https://youagit.com/
  - 만든 사이트 : [54.180.81.199](http://54.180.81.199/)
+ - 문서 : https://docs.google.com/document/d/e/2PACX-1vQf-AImPbUJxnhO7MRLWYcPMDVmAKksKXcz_CaG8TyyzEt9ZXOGH1ctJUGSdP5qCYVMUmNvH9ZxwPY-/pub
 <br><br><br>
 ## 팀원 및 역할분담
   - 이민규 (UI, 및 메인 페이지)
